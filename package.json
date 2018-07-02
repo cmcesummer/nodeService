@@ -1,0 +1,23 @@
+{
+  "name": "nodeservice",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmcesummer/nodeService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmcesummer/nodeService/issues"
+  },
+  "homepage": "https://github.com/cmcesummer/nodeService#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3"
+  }
+}
